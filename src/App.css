@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(90deg, black, white, black);
+}
+
+
+li {
+    list-style: none;
+}
+hr {
+    width: 90%;
+    background-image: linear-gradient(90deg, black, white, black, white, black);
+    height: 2px;
+    border-style: none;
+    margin: auto;
+}
+
+.ulItems {
+    color: red;
+    list-style: none;
+    font-style: oblique;
+}
